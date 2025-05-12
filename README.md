@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Hi 👋, I'm </h1>
+<p>A passionate frontend developer from </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaykant-yadav&" alt="Jaykant-yadav" /></p>
