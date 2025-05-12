@@ -11,9 +11,13 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaykant-yadav&" alt="Jaykant-yadav" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaykant-yadav&" alt="Jaykant-yadav" /></p>
+###
+
+<img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
 ###
 
@@ -46,12 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jaykant-yadav/Jaykant-yadav/output/snake.svg" alt="Snake animation" />
+<hr>
 
 ###
 
@@ -62,7 +61,6 @@
 </div>
 
 ###
-
 
 <!--
 **Jaykant-yadav/jaykant-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -78,4 +76,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
