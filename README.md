@@ -1,6 +1,5 @@
 <br clear="both">
-
-<h4 align="center">Hello 👋! I'm Jaykant Yadav — a CSE (DS) student passionate about Java, Web Development, and DSA. I love building web projects and improving my problem-solving skills every day.</h4>
+<h5 align="center">Hello 👋! I'm Jaykant Yadav — a CSE (DS) student passionate about Java, Web Development, and DSA. I love building web projects and improving my problem-solving skills every day.</h5>
 
 ###
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;<b> Stats </b>
